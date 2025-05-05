@@ -1,0 +1,7 @@
+
+State Machine - |top|statemachine:sm|state
+Name state.FAST state.MEDIUM state.SLOW state.OFF 
+state.OFF 0 0 0 0 
+state.SLOW 0 0 1 1 
+state.MEDIUM 0 1 0 1 
+state.FAST 1 0 0 1 

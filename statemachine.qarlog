@@ -1,0 +1,32 @@
+Quartus Prime Archive log --	C:/Quartus/vii/statemachine.qarlog
+
+Archive:	C:/Quartus/vii/statemachine.qar
+Date:		Sat Apr 19 16:26:22 2025
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Quartus/vii/counter.sv
+C:/Quartus/vii/edge_detector.sv
+C:/Quartus/vii/hex_decoder.sv
+C:/Quartus/vii/statemachine.qpf
+C:/Quartus/vii/statemachine.qsf
+C:/Quartus/vii/statemachine.sv
+C:/Quartus/vii/timer.sv
+C:/Quartus/vii/top.sv
+c:/intelfpga_lite/20.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 9 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sat Apr 19 17:03:47 2025
+Source archive file:	C:/Quartus/vii/statemachine.qar
+Archive was extracted into	C:/Quartus/vii/statemachine_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Mon May 05 14:42:23 2025
+Source archive file:	C:/repos/state_machine_fpga/statemachine.qar
+Archive was extracted into	C:/repos/state_machine_fpga/statemachine_restored/
+		 - successfully.

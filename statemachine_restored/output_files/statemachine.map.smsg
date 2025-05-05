@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at top.sv(4): object "HEX0" differs only in case from object "hex0" in the same scope File: C:/Quartus/vii/statemachine_restored/top.sv Line: 4
+Info (10281): Verilog HDL Declaration information at top.sv(6): object "HEX1" differs only in case from object "hex1" in the same scope File: C:/Quartus/vii/statemachine_restored/top.sv Line: 6
