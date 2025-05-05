@@ -2,7 +2,7 @@
 
 A SystemVerilog implementation of a configurable FSM-driven counter for the DE0-CV FPGA board.
 
-![State Machine](./images/state_machine.jpg)  
+![State Machine](state_machine.png)  
 *Figure: State machine diagram illustrating the FSM-driven counter.*
 
 ## Features
